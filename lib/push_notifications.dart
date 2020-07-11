@@ -1,3 +1,5 @@
+// This file is used when you call PushNotificationsManager().init() to print firebase token
+
 import 'package:firebase_messaging/firebase_messaging.dart';
 
 class PushNotificationsManager {
